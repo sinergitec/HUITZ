@@ -8,7 +8,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 public class Iniciando extends AppCompatActivity {
 
-    private final int DURACION_SPLASH = 2000;
+    private final int DURACION_SPLASH = 3000;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
